@@ -27,16 +27,16 @@ This Project contains three major parts -:
 
 ####
 
-[Picture1.png](https://github.com/ArshveerSinghArora/Student_Marks_Predictor/blob/master/static/images/Picture1.png?raw=true)
+![Picture1.png](https://github.com/ArshveerSinghArora/Student_Marks_Predictor/blob/master/static/images/Picture1.png?raw=true)
 
 4. copy address & run it on browser.
 5. it will open webpage like this –
 
 ####
 
-[Picture2.png](https://github.com/ArshveerSinghArora/Student_Marks_Predictor/blob/master/static/images/Picture2.png?raw=true)
+![Picture2.png](https://github.com/ArshveerSinghArora/Student_Marks_Predictor/blob/master/static/images/Picture2.png?raw=true)
 
 6. on running it will give output like this –
 ####
 
-[Picture3.png](https://github.com/ArshveerSinghArora/Student_Marks_Predictor/blob/master/static/images/Picture3.png?raw=true)
+![Picture3.png](https://github.com/ArshveerSinghArora/Student_Marks_Predictor/blob/master/static/images/Picture3.png?raw=true)
