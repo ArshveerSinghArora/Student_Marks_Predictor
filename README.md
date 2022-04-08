@@ -29,7 +29,7 @@ This Project contains three major parts -:
 
 [Picture1.png](https://github.com/ArshveerSinghArora/Student_Marks_Predictor/blob/master/static/images/Picture1.png?raw=true)
 
-4. 4. copy address & run it on browser.
+4. copy address & run it on browser.
 5. it will open webpage like this –
 
 ####
