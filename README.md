@@ -6,7 +6,7 @@ This is a mini project in which I have deployed a Machine Learn Model on product
 ## Aim -:
 
 In this project I have been given data with Study Hours & Student Marks.
-Using this data, we will check that on studying how much hours you will get how much marks.
+Using the data in csv file("student_info.csv"), we will check that on studying how much hours you will get how much marks.
 
 ## Perquisites -:
 
